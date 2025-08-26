@@ -1,6 +1,6 @@
 # Ocean BioMetrics
 
-![Ocean BioMetrics Logo](https://github.com/ocean-biometrics/profile/imgs/blob/main/OBM-logo.png)
+![Ocean BioMetrics Logo](imgs/OBM_logo.png)
 
 ## Ocean Intelligence for Nature-Based Finance
 
