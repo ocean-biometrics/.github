@@ -1,5 +1,3 @@
-# Ocean BioMetrics
-
 ![Ocean BioMetrics Logo](imgs/OBM_logo.png)
 
 ## Ocean Intelligence for Nature-Based Finance
