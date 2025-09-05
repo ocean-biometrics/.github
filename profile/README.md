@@ -2,7 +2,7 @@
 
 ## Ocean Intelligence for Nature-Based Finance
 
-We transform complex biological data into insights for conservation and blue finance.
+We transform complex biological data into insights for conservation and regenerative blue finance.
 
 Ocean Biometrics specializes in turning ocean intelligence into actionable insights that power conservation efforts and advance blue nature finance mechanisms. We build AI and genomic-driven infrastructure by integrating multiple data streams, including meta-omics samples, environmental parameters, and geographical context, through advanced bioinformatics and systems biology workflows to deliver strategic outputs to drive both blue biotechnology innovation and conservation outcomes.
 
@@ -16,7 +16,7 @@ Our assessments reveal ecosystem vulnerability and resilience, while also identi
 
 ## Our Repositories
 
-This GitHub organization hosts the open-source projects and tools developed by Ocean BioMetrics. Our work is focused on providing the necessary infrastructure to connect ocean conservation with blue finance.
+This GitHub organization hosts the open-source projects and tools developed by Ocean BioMetrics. Our work is focused on providing the necessary infrastructure to connect ocean conservation with regenerative blue finance.
 
 Feel free to explore our projects and get in touch.
 
