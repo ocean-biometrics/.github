@@ -2,7 +2,7 @@
 
 ## Ocean Intelligence for Nature-Based Finance
 
-We transform complex biological data into insights for conservation and regenerative blue finance.
+Ocean BioMetrics transforms complex biological data into insights for conservation and regenerative blue finance.
 
 Ocean Biometrics specializes in turning ocean intelligence into actionable insights that power conservation efforts and advance blue nature finance mechanisms. We build AI and genomic-driven infrastructure by integrating multiple data streams, including meta-omics samples, environmental parameters, and geographical context, through advanced bioinformatics and systems biology workflows to deliver strategic outputs to drive both blue biotechnology innovation and conservation outcomes.
 
